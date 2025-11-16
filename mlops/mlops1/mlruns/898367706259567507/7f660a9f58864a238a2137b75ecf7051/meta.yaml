@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ankur/backup/delta/sn/datascience/workspace/mlops/mlops1/mlruns/898367706259567507/7f660a9f58864a238a2137b75ecf7051/artifacts
+end_time: 1721598230514
+entry_point_name: ''
+experiment_id: '898367706259567507'
+lifecycle_stage: active
+run_id: 7f660a9f58864a238a2137b75ecf7051
+run_name: sassy-donkey-518
+run_uuid: 7f660a9f58864a238a2137b75ecf7051
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721598230450
+status: 4
+tags: []
+user_id: ankur

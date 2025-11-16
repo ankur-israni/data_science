@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ankur/backup/delta/sn/datascience/workspace/mlops/mlops1/mlruns/107923186294343041/f802a6d5de954496ba79f3a3da0f6300/artifacts
+end_time: 1721687501391
+entry_point_name: ''
+experiment_id: '107923186294343041'
+lifecycle_stage: active
+run_id: f802a6d5de954496ba79f3a3da0f6300
+run_name: bright-horse-376
+run_uuid: f802a6d5de954496ba79f3a3da0f6300
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721687498527
+status: 3
+tags: []
+user_id: ankur

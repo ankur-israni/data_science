@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ankur/backup/delta/sn/datascience/workspace/mlops/mlops1/mlruns/107923186294343041/d67e00f6d07442799f4a1ffb5080f4d4/artifacts
+end_time: 1721684740953
+entry_point_name: ''
+experiment_id: '107923186294343041'
+lifecycle_stage: active
+run_id: d67e00f6d07442799f4a1ffb5080f4d4
+run_name: inquisitive-calf-821
+run_uuid: d67e00f6d07442799f4a1ffb5080f4d4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721684737962
+status: 3
+tags: []
+user_id: ankur

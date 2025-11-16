@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ankur/backup/delta/sn/datascience/workspace/mlops/mlops1/mlruns/107923186294343041/5da9b2d5ad7348bc9b17ed14d1b4b2f1/artifacts
+end_time: 1721688999132
+entry_point_name: ''
+experiment_id: '107923186294343041'
+lifecycle_stage: active
+run_id: 5da9b2d5ad7348bc9b17ed14d1b4b2f1
+run_name: able-moose-81
+run_uuid: 5da9b2d5ad7348bc9b17ed14d1b4b2f1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721688996350
+status: 3
+tags: []
+user_id: ankur

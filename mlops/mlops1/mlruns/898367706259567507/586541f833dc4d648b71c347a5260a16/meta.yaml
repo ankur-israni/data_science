@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ankur/backup/delta/sn/datascience/workspace/mlops/mlops1/mlruns/898367706259567507/586541f833dc4d648b71c347a5260a16/artifacts
+end_time: 1721598327672
+entry_point_name: ''
+experiment_id: '898367706259567507'
+lifecycle_stage: active
+run_id: 586541f833dc4d648b71c347a5260a16
+run_name: crawling-cod-869
+run_uuid: 586541f833dc4d648b71c347a5260a16
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721598324586
+status: 3
+tags: []
+user_id: ankur

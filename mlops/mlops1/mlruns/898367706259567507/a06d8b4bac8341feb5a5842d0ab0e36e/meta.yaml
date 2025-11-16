@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ankur/backup/delta/sn/datascience/workspace/mlops/mlops1/mlruns/898367706259567507/a06d8b4bac8341feb5a5842d0ab0e36e/artifacts
+end_time: 1721604153492
+entry_point_name: ''
+experiment_id: '898367706259567507'
+lifecycle_stage: active
+run_id: a06d8b4bac8341feb5a5842d0ab0e36e
+run_name: glamorous-fly-131
+run_uuid: a06d8b4bac8341feb5a5842d0ab0e36e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721604150026
+status: 3
+tags: []
+user_id: ankur

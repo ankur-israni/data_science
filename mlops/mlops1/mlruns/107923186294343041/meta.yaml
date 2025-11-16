@@ -1,0 +1,6 @@
+artifact_location: file:///Users/ankur/backup/delta/sn/datascience/workspace/mlops/mlops1/mlruns/107923186294343041
+creation_time: 1721684737849
+experiment_id: '107923186294343041'
+last_update_time: 1721684737849
+lifecycle_stage: active
+name: wine_data_experiment

@@ -1,0 +1,13 @@
+prefix=/Users/ankur/backup/delta/sn/datascience/workspace/virtual_environments/myenv1
+exec_prefix=/Users/ankur/backup/delta/sn/datascience/workspace/virtual_environments/myenv1
+libdir=/Users/ankur/backup/delta/sn/datascience/workspace/virtual_environments/myenv1/lib
+sharedlibdir=/Users/ankur/backup/delta/sn/datascience/workspace/virtual_environments/myenv1/lib
+includedir=/Users/ankur/backup/delta/sn/datascience/workspace/virtual_environments/myenv1/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}

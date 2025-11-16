@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ankur/backup/delta/sn/datascience/workspace/mlops/mlops1/mlruns/898367706259567507/b15ab95e6b10432b932b46267b4bb3be/artifacts
+end_time: 1721598304280
+entry_point_name: ''
+experiment_id: '898367706259567507'
+lifecycle_stage: active
+run_id: b15ab95e6b10432b932b46267b4bb3be
+run_name: invincible-elk-592
+run_uuid: b15ab95e6b10432b932b46267b4bb3be
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721598304241
+status: 4
+tags: []
+user_id: ankur

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ankur/backup/delta/sn/datascience/workspace/mlops/mlops1/mlruns/107923186294343041/754651fc02e74dca9e30c29001aa2181/artifacts
+end_time: 1721685399765
+entry_point_name: ''
+experiment_id: '107923186294343041'
+lifecycle_stage: active
+run_id: 754651fc02e74dca9e30c29001aa2181
+run_name: aged-sponge-637
+run_uuid: 754651fc02e74dca9e30c29001aa2181
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721685397037
+status: 3
+tags: []
+user_id: ankur
