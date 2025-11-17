@@ -1,5 +1,0 @@
-#!/Users/ankur/backup/delta/sn/datascience/workspace/feature_engineering/venv/bin/python3.12
-
-from idlelib.pyshell import main
-if __name__ == '__main__':
-    main()
