@@ -47,11 +47,11 @@ Terminal (/Users/ankur/backup/delta/sn/datascience/workspace/18 - getting starte
 - Get request
 
 
-## 3G -------- if statement in HTML template -------- 
+## 3G) If statement in HTML template  
 - http://127.0.0.1:5000/if_in_html_template/51
 - If statement in HTML template
 
-## 3H -------- Redirect to another URL -------- 
+## 3H) Redirect to another URL  
 - http://127.0.0.1:5000/redirect_to_another_url
 - Enter marks of different subjects on the above URL
 - When page is submitted, it redirects to 
