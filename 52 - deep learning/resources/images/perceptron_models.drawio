@@ -1,0 +1,27 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/28.2.5 Chrome/138.0.7204.251 Electron/37.6.1 Safari/537.36" version="28.2.5">
+  <diagram name="Page-1" id="F3Ug3aUG9T3xKUO3l3NW">
+    <mxGraphModel dx="1426" dy="888" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="BJr9rVmVp_WlbZuHFIqo-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="BJr9rVmVp_WlbZuHFIqo-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="240" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BJr9rVmVp_WlbZuHFIqo-1" value="Perceptron Models" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="330" y="180" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BJr9rVmVp_WlbZuHFIqo-2" value="Single Layered Perceptron Model" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="90" y="270" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BJr9rVmVp_WlbZuHFIqo-3" value="Multi Layered Perceptron Model /&amp;nbsp;&lt;div&gt;ANN (Artificial Neural Network&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="540" y="270" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BJr9rVmVp_WlbZuHFIqo-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.528;entryY=0.133;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="BJr9rVmVp_WlbZuHFIqo-1" target="BJr9rVmVp_WlbZuHFIqo-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

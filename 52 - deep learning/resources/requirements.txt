@@ -1,0 +1,8 @@
+nltk
+svgling
+
+# For word2vec model
+gensim 
+
+# python library that addes a smart progress meter to loops, making it easy to track how long tasks are taking and how much work is left.
+tqdm 

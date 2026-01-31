@@ -1,0 +1,146 @@
+
+itmp/
+programs_to_write.txt
+
+
+
+
+
+
+############################
+# Virtual environments (CRITICAL)
+############################
+venv/
+venv/*
+.venv/
+env/
+ENV/
+virtual_environments/myenv1/
+virtual_environments/myenv2/
+virtual_environments/
+
+############################
+# TensorFlow / native binaries
+############################
+# TensorFlow native libraries
+venv/**/tensorflow/*.dylib
+.venv/**/tensorflow/*.dylib
+
+# LLVM / clang (TensorFlow dependency)
+venv/**/clang/native/*.dylib
+.venv/**/clang/native/*.dylib
+
+# All native binaries (extra safety)
+*.dylib
+*.so
+*.dll
+
+############################
+# Python
+############################
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+.env
+.env.*
+pip-wheel-metadata/
+pip-log.txt
+__pypackages__/
+
+############################
+# Jupyter / IPython
+############################
+.ipynb_checkpoints/
+profile_default/
+ipython_config.py
+
+############################
+# ML artifacts / models
+############################
+*.pkl
+*.pickle
+*.joblib
+*.h5
+*.hdf5
+*.onnx
+*.pt
+*.pth
+*.ckpt
+*.pb
+*.tflite
+*.sav
+
+############################
+# Experiment tracking
+############################
+mlruns/
+mlartifacts/
+wandb/
+wandb-debug.log
+wandb-summary.json
+tensorboard/
+logs/
+lightning_logs/
+
+############################
+# Data (raw & processed)
+############################
+data/
+datasets/
+raw_data/
+processed_data/
+interim/
+external/
+*.csv
+*.tsv
+*.parquet
+*.feather
+*.avro
+*.npz
+*.npy
+
+############################
+# Caches
+############################
+.cache/
+.mypy_cache/
+.pytest_cache/
+ruff_cache/
+hypothesis/
+
+############################
+# OS / IDE
+############################
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo
+
+############################
+# Build / packaging
+############################
+build/
+dist/
+*.egg-info/
+.eggs/
+
+############################
+# Secrets / credentials
+############################
+*.pem
+*.key
+*.crt
+aws_credentials
+gcp_credentials.json
+service_account*.json
+secrets.yaml
+secrets.yml
+
+############################
+# Logs
+############################
+*.log

@@ -1,0 +1,6 @@
+#Definition
+isPositiveOrNegative = lambda x: (x > 0 and print("positive")) or (x <= 0 and print("non-positive"))
+
+#Execution
+isPositiveOrNegative(3)
+

@@ -1,0 +1,12 @@
+# Install this exact version of tensor flow
+tensorflow==2.16.2
+
+# Install the latest versions of the following packages
+numpy
+pandas
+scikit-learn
+tensorboard
+matplotlib
+seaborn
+streamlit
+ipykernel
