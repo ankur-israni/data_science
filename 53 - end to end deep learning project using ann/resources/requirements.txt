@@ -1,5 +1,5 @@
 # Install this exact version of tensor flow
-tensorflow==2.16.2
+tensorflow
 
 # Install the latest versions of the following packages
 numpy
@@ -8,5 +8,5 @@ scikit-learn
 tensorboard
 matplotlib
 seaborn
-streamlit
+streamlit>1.30.0
 ipykernel
