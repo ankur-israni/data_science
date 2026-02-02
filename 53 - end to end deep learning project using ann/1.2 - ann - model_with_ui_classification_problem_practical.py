@@ -17,16 +17,16 @@ import pickle
 
 # Step 1 ) Load the trained models, encoders and scalars
 # Load the ANN model
-ann_model = tf.keras.models.load_model('./resources/pickle/ann_model.h5')
+ann_model = tf.keras.models.load_model('./resources/pickle/1_ann_model.h5')
 
 # Load the encoders and scalers
-with open('./resources/pickle/label_encoder_gender.pkl', 'rb') as file:
+with open('./resources/pickle/1_label_encoder_gender.pkl', 'rb') as file:
     label_encoder_gender = pickle.load(file)
 
-with open('./resources/pickle/onehot_encoder_geography.pkl', 'rb') as file:
+with open('./resources/pickle/1_onehot_encoder_geography.pkl', 'rb') as file:
     onehot_encoder_geo = pickle.load(file)
 
-with open('./resources/pickle/standard_scaler_xtrain_xtest.pkl', 'rb') as file:
+with open('./resources/pickle/1_standard_scaler_xtrain_xtest.pkl', 'rb') as file:
     scaler = pickle.load(file)
 
 # Step 2) Create the User Interface using Streamlit

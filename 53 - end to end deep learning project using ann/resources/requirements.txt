@@ -10,3 +10,4 @@ matplotlib
 seaborn
 streamlit>1.30.0
 ipykernel
+scikeras
