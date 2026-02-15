@@ -1,9 +1,0 @@
-def printinfo(arg1, **arg2 ):
-    print("arg1 = "+str(arg1))
-    for key in arg2:
-        print("arg2 "+key+" = "+str(arg2[key]))
-    return;
-
-# Execution
-printinfo(10) #arg1 = 10
-printinfo(70, a=60, b=50) #arg1 = 70, arg2 a = 60, arg2 b = 50
