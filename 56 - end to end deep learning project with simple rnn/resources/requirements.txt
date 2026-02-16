@@ -1,0 +1,13 @@
+# Install this exact version of tensor flow
+tensorflow
+
+# Install the latest versions of the following packages
+numpy
+pandas
+scikit-learn
+tensorboard
+matplotlib
+seaborn
+streamlit>1.30.0
+ipykernel
+scikeras
