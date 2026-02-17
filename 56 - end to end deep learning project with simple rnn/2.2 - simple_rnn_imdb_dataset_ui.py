@@ -15,10 +15,22 @@ model = load_model('./resources/dist/2_simple_rnn_model.h5')
 
 # Step 2: Helper Functions
 # Function to decode reviews
+# e.g. Input = encoded_review = [1, 14, 22, 16, 43]
+# Output = "? this film was great"
+'''
+ - i - 3 → adjusts for IMDB’s index offset
+ - reverse_word_index → maps number → word
+ - '?' → used if word not found
+
+ This function is not used in the example.
+'''
 def decode_review(encoded_review):
     return ' '.join([reverse_word_index.get(i - 3, '?') for i in encoded_review])
 
-# Function to preprocess user input
+'''
+e.g. Input = text = "This movie was great"
+e.g. Output = [[1, 14, 22, 16, 43, 0, 0, 0, ..., 0]] (padded and encoded review)
+'''
 def preprocess_text(text):
     words = text.lower().split()
     encoded_review = [word_index.get(word, 2) + 3 for word in words]
@@ -26,8 +38,6 @@ def preprocess_text(text):
     return padded_review
 
 
-
-## streamlit app
 # Streamlit app
 st.title('IMDB Movie Review Sentiment Analysis')
 st.write('Enter a movie review to classify it as positive or negative.')
@@ -39,7 +49,7 @@ if st.button('Classify'):
 
     preprocessed_input=preprocess_text(user_input)
 
-    ## MAke prediction
+    ## Make prediction
     prediction=model.predict(preprocessed_input)
     sentiment='Positive' if prediction[0][0] > 0.5 else 'Negative'
 
